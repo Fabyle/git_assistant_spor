@@ -1,0 +1,19 @@
+{
+"conversations" : [
+	{
+ 			"keywords" 	: [ "SMOG", "BDORG","^pattern$" ],
+ 			"confirmation" : "Veux tu savoir où est le visualisateur BDORG ?",
+ 			"answer"		: "Il est dans URL http://esvnsa01:8082/smo_grp/ui/activitesMetiers :sunglasses: !"
+  	},
+  	{
+ 			"keywords" 	: ["congés", "congé", "vacances", "^pattern$"],
+ 			"confirmation" : "Veux tu connaitre l'emplacement du fichier des congés ?",
+ 			"answer"		: "il est ici, `G:\\SystAlians\\DOP\\Etudes Retraite et Social\\07 - Bureau Technique\\10-Pilotage\\Suivi congés\\Congés 2016.xlsm` ! \n Bonne vacances ! :wink: "
+  	},
+  	{
+ 			"keywords" 	: ["planning", "todo", "faire", "^pattern$"],
+ 			"confirmation" : "Veux tu connaitre l'emplacement du fichier de planning ?",
+ 			"answer"		: "ils est ici `G:\\SystAlians\\DOP\\Etudes Retraite et Social\\07 - Bureau Technique\\10-Pilotage\\Planning` !' ! \n Bon courage ! au boulot ! :wink: "
+  	}
+	]
+}

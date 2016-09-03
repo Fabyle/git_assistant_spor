@@ -1,0 +1,1370 @@
+F0BIPEC;DBI PEC Inscriptions des Droits
+F0DRCVG;Synchro ref vers bref
+FAAU0001;Visualisation des flux INSEE reçus
+FAAU0002;Consultation des retours fédérations
+FAAU0003;Traitements des rejets fédérations
+FAAU0004;Visualisation des flux AURA envoyés
+FAAU0005;Visualisation des flux AURA envoyés par entreprise
+FAAU0006;Gestion des anomalies internes AURA
+FAAU0007;Gestion du recyclage des entreprises AURA
+FAAU0008;Gestion du forçage d'un adhérent AURA
+FAAU0009;Re-numérotation de contrat AURA
+FAAU0010;Flux AURA reçus
+FAAU0011;Flux AURA envoyés
+FAAU0012;Demande d'une table de gestion
+FAAU0013;Suivi des demandes AURA
+FAAU0014;Annulation du volet institution
+FAAU0015;Visualisation des flux de gestion AURA
+FAAU0016;Gestion des flux spécifiques institution
+FAAU0017;Gestion des liens UR AURA
+FAAU0019;Déclenchement des mises à jour différées
+FAAU0020;Visualisation des rejets de compétence
+FAAU0021;Gestion des retours RAPPAURA
+FAAU0101;DetailCVAL
+FAAU0102;DetailCONT
+FAAU0103;DetailCCPI
+FAAU0104;DetailENTR
+FAAU0105;DetailETAB
+FAAU0106;DetailLIEN
+FAAU0107;DetailLCAT
+FAAU0108;DetailPVAL
+FAAU0109;DetailSECO
+FAAU0110;SyntheseCPNCPI
+FAAU0111;Detail Stats Emissions
+FAAU0112;DetailMouvementRejete
+FAAU0113;ConsultDetailMouvementRejete
+FAAU0114;ModifDetailMouvementRejete
+FAAU0115;DetailAnoInterne
+FAAU0118;DetailForcage
+FAAU0122;DetailRecyclage
+FAAU0123;ConsultDetailRecyclage
+FAAU0124;ModifDetailRecyclage
+FAAU0125;Rejet compétence
+FAAU0126;Gestion des articles 36
+FAAU1001;Creation liens UR AURA
+FAAU1002;Modification liens UR AURA
+FAAU1003;Edition catégorie professionnelle institution
+FAAU1004;Edition clé unique AURA
+FAAU1005;Edition produit validation
+FAAU1006;Edition condition validation
+FAAU1007;Consultation des lots transmis
+FACF0001;Consultation Contrôle URSSAF
+FACF0002;Gestion Contrôle URSSAF
+FACP0001;Référencement des contrats
+FACP0002;Référencement des catégories professionnelles
+FACP0003;Référencement des garanties
+FACP0004;Gestion des conditions d'adhésion référencées
+FACP0005;Gestion du paramétrage d'édition
+FACP0006;Gestion des produits
+FACP0007;Consultation du suivi du catalogue produits
+FACP0008;Création adhésion référencée
+FACP0009;Edition Contrats References
+FACP0010;Edition Cat Prof Referencees
+FACP0011;Edition Garanties Referencees
+FACP0012;Modifier CAR
+FACP0013;Editer Pilotage Produit
+FACP0014;Créer Produit Reference
+FACP0015;Editer Cond Interloc Produit
+FACP0016;Créer CAP
+FACP0017;Editer Details CAP
+FACP0018;Editer Amendement
+FAGA0001;Recherche d'une adhésion
+FAGA0002;Adhésion nouvelle d'une entreprise
+FAGA0003;Gestion d'une adhésion
+FAGA0004;Gestion des conditions d'adhésion
+FAGA0005;Création des conditions d'adhésion
+FAGA0006;Création des conditions d'interlocution
+FAGA0007;Mise en gestion de l'adhésion
+FAGA0008;Mise à jour adhésion collective
+FAGA0012;Consultation du suivi
+FAGA0013;Récapitulatif des conditions d'adhésion
+FAGA0014;Synthèse adhésion
+FAGA0015;Recherche d?une adhésion [indiv.]
+FAGA0017;Gestion d?une adhésion [indiv.]
+FAGA0018;Gestion des conditions d'adhésion [indiv.]
+FAGA0024;Consultation du suivi [indiv.]
+FAGA0025;Récapitulatif des conditions d'adhésion [indiv.]
+FAGA0026;Synthèse adhésion [indiv.]
+FAGA0028;Mise en sommeil d'un adhérent
+FAGA0029;Gestion unitaire du sommeil
+FAGA0030;Retours de l'enquête sommeil
+FAGA0033;Relèvement de taux
+FAGA0035;Modification des conditions d'adhésion
+FAGA0036;Ajout catégorie/contrat
+FAGA0037;Ajout garantie
+FAGA0038;Mise à jour période catégorie/contrat
+FAGA0039;Mise à jour catégorie
+FAGA0040;Gestion amendement
+FAGA0041;Gestion Surprime Ristourne
+FAGA0042;Gestion taux de validation
+FAGA0043;Mise à jour des périodes de garantie
+FAGA0044;Suppression catégorie contrat
+FAGA0045;Suppression garantie
+FAGA0046;Mise à jour contrat
+FAGA0047;Gestion cycle de vie et transferts adhésions
+FAGA0048;Création d'opération juridique
+FAGA0049;Gestion automatique du sommeil
+FAGA0050;Traitement automatique du sommeil
+FAGA0051;Compte-rendu d'un relèvement de taux exécuté
+FAGA0052;Visualisation des flux CEA - TESE
+FAGA0053;Adhésion aux dispositifs CEA - TESE
+FAGA0054;Statistiques CEA - TESE
+FAGA0055;Consultation des événements Bodacc
+FAGA0056;Gestion événement Bodacc
+FAGA0057;Consultation vue adhérent
+FAGA0058;ConsutationDetailBodacc
+FAGA1000;Suppression d'un adhérent
+FAGA1001;Sélection d'un produit
+FAGA1002;Ajout de catégories professionnelles /contrats
+FAGA1003;Suppression catégories professionnelles /contrats
+FAGA1004;Création d?une opération de relèvement de taux
+FAGA1011;Modification d'une operation juridique
+FAGA1012;Création d'un lien inter adhesion
+FAGA1013;Modification d'un Lien Inter Adhesion
+FAGA1014;Création d'un lien inter population
+FAGA1015;Modification d'un lien inter population
+FAGA1016;Création d'un lien inter établissement
+FAGA1017;Modification d'un lien inter établissement
+FAGA1018;Création d'une procédure collective
+FAGA1019;Modification d'une procédure collective
+FAGA1020;Création d'un transfert
+FAGA1021;Modification d'un transfert
+FAGA2000;Adhésion nouvelle d'un individu
+FAGA2001;Création des conditions d?adhésion [indiv.]
+FAGA2002;Création des conditions d?interlocution [indiv.]
+FAGA2003;Mise en gestion adhésion individuelle
+FAGA2004;Gestion Salaires Annuels Expatriation
+FAGA2005;Modification d?une adhésion Individuelle
+FAGA2006;Modification d'une condition d'adhésion [indiv.]
+FAGA2007;Mise à jour Contrat
+FAGA2008;Gestion Amendement
+FAGA2010;Abandon Création Adhésion Individuelle
+FAGA2013;Gestion période
+FAGA3000;Gestion des taches CREA ETAB
+FAGA3001;Création lien d'interlocution pour une adhésion
+FAGA3002;Fermeture lien d'interlocution pour une adhésion
+FAUE0001;Gestion des populations
+FAUE0002;Gestion des UE DN
+FAUE0003;Gestion des UE compte
+FAUE0004;Gestion des tiers mandataires
+FAUE0005;Gestion des structures d'interlocution standards
+FAUE0006;Prise en compte MAJ établissement
+FAUE0007;Annul modif struct interlocution
+FAUE0013;Gestion des conditions d'interlocution
+FAUE0014;Conditions d'interlocution
+FAUE0015;Modifier Indicateur Gestion
+FAUE0016;Créer Effectif A Date
+FAUE0017;Modifier Effectif A Date
+FAUE0018;Créer Effectif Periode
+FAUE0019;Modifier Effectif Periode
+FAUE0020;Créer Seuils Article 36
+FAUE0021;Modifier Seuils Article 36
+FAUE0022;Modifier Libelle Population
+FAUE0024;Modifier le sous ensemble d'un tiers
+FAUE0025;Gérer les modalités d'un sous ensemble
+FAUE0026;Gérer une UE Compte
+FAUE0027;Modifier les modalités d'une UEC
+FAUE0028;Gérer une UE DN
+FAUE0029;Editer une UE Compte/DN
+FAUE0030;Modifier les modalités d'une UE DN
+FAUE0031;Création d'un lien d'interlocution pour une UE
+FAUE0032;Fermeture d'un lien d'interlocution pour une UE
+FAUE0033;Création d'un lien mandataire pour une UE
+FAUE0034;Fermeture d'un lien mandataire pour une UE
+FAUE0035;Recherche des UE DN d'une Adhésion
+FAUE1001;Gestion Population
+FAUE1002;Créer Indicateur Gestion
+FAUE1003;Consulter UEDN
+FAUE2000;Gestion des populations [indiv.]
+FAUE2001;Gestion des populations sur adhésion individuelle
+FAUE2002;Modification d?un indicateur de gestion
+FAUE2003;Gestion des conditions d'interlocution [indiv.]
+FAUE2004;Gestion des UE compte [indiv.]
+FAUE2005;Gestion UEC Adhesion Individuelle
+FAUE2006;Editer UE Adhesion Individuelle
+FAUE2007;Modifier Modalité UE Compte Adhésion Individuelle
+FAUE2008;Gestion des UE DN [indiv.]
+FAUE2009;Gestion d?une UEDN Adhesion Individuelle
+FAUE2010;Modification Modalités UE DN Adhésion Individuelle
+FAUE2011;Création d?un lien d?interlocution [indiv.]
+FAUE2012;Fermer lien interlocution [indiv.]
+FAUE2013;Créer Lien Mandataire [indiv.]
+FAUE2014;Fermer Lien Mandataire [indiv.]
+FAUE2015;Gestion des tiers mandataires [indiv.]
+FAUE2016;Modification d?un sous-ensemble [indiv.]
+FAUE2017;Gestion des modalités d?un sous-ensemble [indiv.]
+FAVU0001;Consulter Synthèse Entreprise
+FB000001;Consultation vue Individu
+FBCT0001;Corbeille
+FBCT0002;Accepter la réaffectation de tâches
+FBCT0003;Visualisation - modification détails tâche
+FBCTINFO;Tâche informative
+FBGECRE;Visualisation des événements non notifiés
+FBGENOT;Visualisation des événements notifiés
+FBGH0A01;PRC Accès A01 (Accueil)
+FBGH0A02;PRC Accès A02 (Instruction)
+FBGH0A04;PRC Accès A04 (Réception des pièces)
+FBGH0B01;PRC Accès B01 (Habilitation par défaut)
+FBGH0B02;PRC Accès B02 (Affectation par défaut)
+FBGH0C01;PRC Accès C01 (Consultation Localisation)
+FBGH0P01;PRC Accès P01 (Paramétrage)
+FBGHADAP;Administration de la protection par adhérent
+FBGHADHE;Administration habilitations entités de gestion
+FBGHADHU;Administration des habilitations des utilisateurs
+FBGHADPM;Administration des profils métier
+FBGHADPU;Administration des profils d'usage
+FBGHAFMU;Affectation multiple de profils métier
+FBGHCAMI;Cartographie des habilitations
+FBGO0001;Création d'une entité de gestion
+FBGO0002;Administration hiérarchie des entités de gestion
+FBGO0003;Création d'un domaine d'activité
+FBGO0004;Mise à jour des entités de gestion
+FBGO0005;Mise à jour des domaines d'activité
+FBGO0006;Mise à jour des informations utilisateur
+FBGO0007;Mise à jour des rôles utilisateur
+FBGO0009;Rechercher un utilisateur sur critères
+FBGO0010;Rattacher des utilisateurs à une entité de gestion
+FBGO0011;Modifier caractéristiques d'une entité de gestion
+FBGO0012;Modifier la hiérarchie d'une entité de gestion
+FBGO0013;Modifier les informations d'un utilisateur
+FBGO0014;Consultation de l'organisation
+FBGO0015;Consultation des domaines d'activité
+FBGO0016;Consultation des informations utilisateur
+FBGO0017;Consultation des rôles utilisateur
+FBGO0018;Consulter les caractéristiques d'une EG
+FBGO0019;Consulter les informations d'un utilisateur
+FBGO0020;Administration des paramètres Interlocution
+FBGO0021;Mise à jour de l'intérim
+FBGO0022;Création d'un intérim
+FBGP0001;Paramétrage de l'entité de gestion par défaut
+FBGP0002;Paramétrage des règles d'attribution
+FBGP0003;Visualiser le détail d'une règle
+FBGP0004;Consultation et forçage des portefeuilles
+FBGP0005;Forcer un portefeuille
+FBGP0006;Paramétrer les domaines d'activité
+FBGP0007;Modifier le paramétrage d'un domaine d'activité
+FBGP0008;Créer une règle
+FBGP0009;Valoriser une règle
+FBGP0010;Modifier une règle
+FBGSADUT;Administration des comptes utilisateurs
+FBGSCOPU;Consultation d'un compte utilisateur
+FBGSCRPU;Création d'un utilisateur
+FBGSLSTU;Liste des comptes utilisateurs et informations
+FBGSMOPU;Modification d'un utilisateur
+FBIACHMP;Changement de mot de passe
+FBIADFCT;Détails d'une fonction
+FBIAFCEN;Fonctions en cours
+FBIAFCHI;Historique des fonctions
+FBIAGCSG;Gestion des consignes
+FBIALMIA;Interface d'accueil
+FBIAOFD;Organisation des favoris de dossiers
+FBIAOFF;Organisation des favoris de fonctions
+FBPAAUTH;Authentification
+FBPAFRAD;Libellé court de la fonction exemple Radja (50).:
+FBPAFSNB;Fonction exemple sensible
+FBPAFSYN;Synthèse
+FBPAFWEB;Fonction exemple Web
+FBPARCNX;Reconnexion
+FBPARSMP;Ressaisie du mot de passe
+FBPASYST;Exemple de fonction Systalians
+FBPAVER;Version des briques installées
+FC00PING;Fonction technique PING GRECCO
+FCKM0001;Comparaison des flux
+FCMD0003;Anomalies d?intégration
+FCMD0004;Anomalies de traçabilité
+FCMD0005;BatchCréerFichierAnomaliesAIACOSS
+FCMD0006;Gestion des inscriptions
+FCMD0007;BatchEnvoiAccuséréceptionEDIDeOPSVersSI2M
+FCMD0008;BatchDemandeInscriptionNetEntreprise
+FCMD0009;BatchRéférencerDemandeInscriptionNetEntreprise
+FCMD0010;BatchRéférencerRéponsesInscriptionsNetEntreprise
+FCMD0011;BatchEnvoiRéponsesInscriptionsNetEntreprise
+FCMD0012;BatchRéférencerFichierRépartitionMandataire
+FCMD0013;BatchIntégrerFichierRépartitionMandataire
+FCMD0014;BatchCréerSynchronisationBACBREFDémat
+FCMD0015;BatchMAJSiretUrcrepTrimestriel
+FCMD0016;BatchMAJSiretUrcrepAnnuel
+FCMR0000;Changer date de référence
+FCMR0001;Charger référentiels
+FCMR1001;BatchAppelDeMasse
+FCMR1002;BatchEmissionAppel
+FCMR1003;BatchExtractionCompteur
+FCMR1004;Saisie d'une demande d'appel
+FCMR1005;BatchAppelComplémentaire
+FCMR1006;BatchAppelComplémentaireDéterminationEvtUEC
+FCMR1007;BatchRégularisationAnnuelle
+FCMR1008;BatchAppelDuSoldeAnnuel
+FCMR1009;Appel à la demande
+FCMR1010;Saisir une déclaration en euros
+FCMR1011;BatchContrôleDAJPhase1
+FCMR1012;BatchSuiviDCOetDAJ
+FCMR1013;BatchAjustementDAJ
+FCMR1014;Gestion des DAJ en anomalie
+FCMR1015;BatchContrôleDAJPhase2
+FCMR1016;BatchIntégrationDéclarationDématérialisée
+FCMR1017;Intégration cotisations maître de maison
+FCMR1018;Visualiser une déclaration
+FCMR1019;Modifier une déclaration en euros
+FCMR1021;Visualiser/Modifier estimés
+FCMR1022;Alignement des créances sur paiement
+FCMR1023;Saisie Déclaration-Informations
+FCMR1024;Modification Déclaration-Informations
+FCMR1025;Visualisation Déclaration-Informations
+FCMR1026;BatchFluxDématAmorcerFluxRGFluxNET
+FCMR1027;BatchFluxDématNetAmorcerFichier
+FCMR1028;BatchPréIntégrerFichierDématNet
+FCMR1029;BatchRéférencerFichierDémat
+FCMR1030;BatchPréIntégrerFichierFaçonnier
+FCMR1031;BatchRéférencerFichierFaçonnier
+FCMR1032;BatchFluxDématNetAmorcerFichierFaçonnier
+FCMR1033;BatchFluxDématAmorcerFluxRGFluxFaçonnier
+FCMR1034;BatchAlignerCréancesSurPaiementDocEmis
+FCMR1035;BatchFluxDématAmorcerFluxRGFluxGMA
+FCMR1036;BatchFluxDématAmorcerFichierGMA
+FCMR1037;BatchRéférencerFichierGMA
+FCMR1038;BatchPréIntégrerFichierGMA
+FCMR1039;BatchDématDéclarationPréIntégrerRéentrance
+FCMR1040;BatchExtractionDocumentsAppel
+FCMR1041;BatchRemontéeCréditURCREPSuiteIntégrationDAJ
+FCMR1042;BatchCréerEchéancierInitial
+FCMR1043;BatchCréerEchéancierComplémentaire
+FCMR1044;Gestion des échéanciers d'acomptes
+FCMR1045;Modifier un Echéancier
+FCMR1046;Historique d'une Echéance
+FCMR1047;Gestion des échéanciers d'acomptes
+FCMR1048;Modifier une Echéance
+FCMR1049;Annuler un Echéancier
+FCMR1050;Créer un Echéancier
+FCMR1051;Rechercher Structure Echéancier
+FCMR1052;BatchEmissionEchéanciersAcompte
+FCMR1053;BatchGénérationDocEcheancierPostMigration
+FCMR1054;Saisir une déclaration en CFP
+FCMR1055;Modifier une déclaration en CFP
+FCMR2001;Identifier un paiement
+FCMR2002;Saisir des paiements
+FCMR2003;Rechercher un bordereau
+FCMR2004;Paiements virtuels Caisse de CP du transport
+FCMR2005;Génération des règlements en mode prélèvement
+FCMR2006;BatchCréerEnregistrementFraisDeGestion
+FCMR2007;BatchCréerPaiementRépartitionAutomatique
+FCMR2008;BatchIntégrationRéglementsTélérèglements
+FCMR2009;BatchVentilationAutomatique
+FCMR2010;BatchAffectationAutomatique
+FCMR2011;Visualiser ventilations
+FCMR2012;Ventiler manuellement
+FCMR2013;Visualiser affectations
+FCMR2014;Affecter manuellement
+FCMR2015;Gérer les paiements
+FCMR2016;Visualiser LF compte UE
+FCMR2017;Créer LF sous-compte
+FCMR2018;Détail ligne financière UE compte
+FCMR2019;Visualiser LF sous compte
+FCMR2020;Visualisation paiement - Répartition paiement
+FCMR2022;Modification paiement Compte UE
+FCMR2023;Répartir un paiement tiers
+FCMR2024;BatchProductionFichierEtFluxEditiqueTélérèglements
+FCMR2025;BatchCréerConsolidationAutomatique
+FCMR2026;Saisie Ventilation manuelle
+FCMR2027;Saisie Affectation manuelle
+FCMR2028;Modification de la ventilation d'une LF
+FCMR2029;Détail paiement en attente d'identification
+FCMR2030;BatchGénérationFichierTélérèglement
+FCMR2031;Saisie Bordereau
+FCMR2032;BatchActualisationSchémaRépartition
+FCMR2033;BatchInitialisationRéférentielUECompteMandataire
+FCMR2034;Sélection d'un schéma de répartition
+FCMR2035;Visualisation d'un schéma de répartition
+FCMR3001;BatchMiseEnGestionCompteMandataire
+FCMR3002;BatchMiseEnGestionCompteUE
+FCMR3003;Gestion NPAI lors de l?envoi d?un courrier_Batch
+FCMR3004;Gestion des Blocs Notes - Consultation
+FCMR3005;BatchTransfertEG
+FCMR3006;BatchTraitementCRENPAI
+FCMR3007;BatchSupprimerBlocsNotes
+FCMR3008;Visualiser / éditer
+FCMR3009;Visualiser compte UE
+FCMR3010;Visualiser sous compte
+FCMR3011;Visualiser débits
+FCMR3013;Visualiser un compte de tiers
+FCMR3014;Demander une quittance
+FCMR3015;BatchEnvoideQuittance
+FCMR3016;Visu / MAJ niveaux incidents
+FCMR3017;Demander un décompte
+FCMR3018;Visualisation du compte UE
+FCMR3019;Visualisation situation entreprise
+FCMR3020;Visualisation document
+FCMR3022;Visu correspondance identifiants
+FCMR3023;Journal adhérent
+FCMR3024;Gestion des Blocs Notes - Saisie
+FCMR3026;Visualisation du solde d'un compte mandataire
+FCMR3027;BatchRemontéeCréditDébitSousEnsembleMandataire
+FCMR3028;BatchCréerCodeSituationActualiséPostMigration
+FCMR3029;Remboursement depuis un compte de tiers
+FCMR3030;Visu flux compte mandataire ou particulier
+FCMR3031;BatchInitialisationRSM
+FCMR3032;Visualisation du solde d'un compte particulier
+FCMR3033;BatchApurementsoldemajoration
+FCMR4001;Transférer solde
+FCMR4002;Transfert de solde Compte UE - Résultat emetteur
+FCMR4003;Apurement des soldes
+FCMR4004;Prescription quinquennale
+FCMR4005;Rembourser depuis compte UE
+FCMR4006;Valider remboursement auto
+FCMR4007;BatchCréerRemboursement
+FCMR4008;Création des bandes de virements automatiques
+FCMR4011;Synthèse des soldes compte UE
+FCMR4012;Soldes justifiés manuellement
+FCMR4014;BatchMiseEnLots
+FCMR4015;BatchCréationEvénementSousCompte
+FCMR4016;BatchCréerCompensation
+FCMR4017;Demander lettre solde annuel
+FCMR4018;BatchRechercherCRENotifiéBSTMiseEnLots
+FCMR4019;Validation demande de remboursement
+FCMR4020;Pilotage soldes à traiter - Histo événements
+FCMR4021;Demander lettre solde annuel - détail
+FCMR4022;BatchCréerTableTravailVirements
+FCMR4023;BatchCréerVirementsAutomatiques
+FCMR4024;BatchGénérationFluxEditiqueEtFichiersVirements
+FCMR4025;BatchAnnulationApurementSoldes
+FCMR4026;BatchAnnulationPrescriptionQuinquenale
+FCMR4027;BatchRechercherUECSuivantTraitementFinAnnée
+FCMR4028;Confirmation demande de remboursement
+FCMR4029;BatchCréerModifierLignesJustificationManuelle
+FCMR4030;Remboursement depuis un compte post ANV
+FCMR4031;Extinction de soldes débiteurs
+FCMR4032;Extinction de soldes créditeurs
+FCMR5001;BatchEstimationCréancesPourRelance
+FCMR5002;BatchRelanceSurCréances
+FCMR5003;BatchEditiqueRecouvrement
+FCMR5004;BatchRelanceDeMajorationsRetard
+FCMR5005;BatchCréerRelanceDS
+FCMR5006;BatchMiseEnDemeureSurCréances
+FCMR5007;BatchCréerMEDDS
+FCMR5008;BatchInscriptionDePrivilège
+FCMR5009;BatchCréerIPDS
+FCMR5010;BatchRéceptionFluxIPExternes
+FCMR5011;Gérer les radiations d?IP
+FCMR5012;BatchRadiationIP
+FCMR5013;BatchPassageCreanceDouteux
+FCMR5014;BatchPassageCréancesALitigieux
+FCMR5015;BatchAnnulationsLigCréProcNonValeurOuCollective
+FCMR5016;BatchCréaModifAnnulFraisContentieux
+FCMR5017;BatchEnregistrementLigneFinancièreSuiteANV
+FCMR5018;BatchEvolutionCalendrier
+FCMR5019;BatchEnrichissementCréanceAuCTX
+FCMR5020;BatchEnrichissementDocumentAuCTX
+FCMR5021;BatchRafraichissementAdhérentAuCTX
+FCMR5022;BatchRechercherAdhérentPourRafraichissementCTX
+FCMR5023;BatchRechercherAdhérentPourSoumissionCTX
+FCMR5024;BatchSoumissionAdhérentAuCTX
+FCMR5025;Gérer calendrier
+FCMR5026;BatchTransmissionDSIrrécouvrable
+FCMR5027;Gérer majorations
+FCMR5028;BatchMajorationAutomatique
+FCMR5029;Gérer débits particuliers
+FCMR5030;Gérer pénalités
+FCMR5031;Remise / Annulation majorations
+FCMR5032;Remise / Annulation pénalités
+FCMR5033;Gérer délais de paiement
+FCMR5034;BatchAtteinteDateEchéance
+FCMR5035;BatchAtteinteDateEchéanceContentieux
+FCMR5036;Visualisation calendrier recouvrement
+FCMR5037;BatchRelanceSurLSA
+FCMR5039;Visualisation inscription de privilège
+FCMR5040;Modification des majorations
+FCMR5041;Inscription privilège - Modification
+FCMR5042;Modification action
+FCMR5043;Radiation d'une inscription de privilège
+FCMR5044;Visualiser demande délai de paiement
+FCMR5045;BatchEvolutionCalendrierDS
+FCMR5046;Visualiser échéancier
+FCMR5047;Saisir échéancier
+FCMR5048;BatchCourrierChambreNationale
+FCMR5049;BatchMiseAJourEtatCalendrierALaDemande
+FCMR5050;BatchRemiseEnVigueurCalendriersDS
+FCMR5051;BatchRecouvrementSousEnsembleMandataire
+FCMR5052;BatchRecouvrementSousEnsembleMandataireEditique
+FCMR5053;BatchRéhabCréerOperationCompteAnnulée
+FCMR5054;BatchEvoEtatCalPostMig
+FCMR5055;BatchExtractionCalendriersRecouvrement
+FCMR5056;BatchRehabRemisesPénalité
+FCMR5057;BatchCourrierGarantApresMED
+FCMR5058;BatchDéclarationSurLhonneur
+FCMR5059;BatchPremierRappel
+FCMR5060;Gérer lots propositions remises
+FCMR6001;BatchRestituerEtatComptePourDroitsDirigeants
+FCMR6002;BatchAffectationDifferéTacheLotRecyclage
+FCMR6003;BatchSupprimerRecyclage
+FCMR7001;BatchCréerEtatClientSensible
+FCMR7002;BatchCréerEtatJustificationSoldes
+FCMR7003;BatchCréerTableTravailEtatClientSensible
+FCMR7004;BatchCréerTableTravailListeJustificationSoldes
+FCMR7005;BatchEtatListeIPNonEditeesCauseAnomalieOuDélai
+FCMR7006;BatchEtatPresomptionRelanceClientsSensibles
+FCMR7007;BatchExtractionIPNonEditeesCauseAnomalieOuDélai
+FCMR7008;BatchExtractionPresomptionRelanceClientsSensibles
+FCMR7009;Constituer liste écrêtement droits
+FCMR7010;Etats de pil Particularité de gest Gens de maison
+FCMR7011;BatchCréerEtatsPilotage
+FCMR7012;BatchCréerTableTravailEtatsAnnuelsURCREP
+FCMR7013;BatchCréerTableTravailEtatsTrimestrielsURCREP
+FCMR7014;Etats de pilotage Particularité de gestion Ex-CAMR
+FCMR7015;BatchProcéduresCollectivesSansProduction
+FCMR7016;BatchProcéduresEnAttenteANVPourMotifCIA
+FCMR7017;BatchSuiviStockCréances
+FCMR7018;BatchEtatPilotageEncaissementCotisations
+FCMR7019;BatchEtatPilotageEncaissementPaysEtrangers
+FCMR7020;BatchEtatPilotageEncaissementDEMAT
+FCMR7021;BatchEtatPilotageCoûtGestionCTX
+FCMR7022;BatchEtatPilotageListeEvènementsCTX
+FCMR7023;BatchCréerEtatGensMaison
+FCMR7024;BatchEtatPilotageUEProcédureCTX
+FCMR8001;Batch Générateur Canal 11
+FCMR8002;Batch Générateur Canal 12
+FCMR8003;Batch Générateur Canal 13
+FCMR8004;Batch Générateur Canal 14
+FCMR8005;Batch Générateur Canal 15
+FCMR8006;Batch Générateur Canal 16
+FCMR8007;Batch Générateur Canal 21
+FCMR8008;Batch Générateur Canal 22
+FCMR8009;Batch Générateur Canal 23
+FCMR8010;Batch Générateur Canal 24
+FCMR8011;BatchRécupFinancierGénérateur
+FCMR8012;BatchRécupTKGénérateur
+FCMR8013;BatchRapproComptaGestionFluxFinanciers
+FCMR8014;BatchRapproComptaGestionFluxTechniques
+FCMR8015;BatchRapproComptaGestionSoldesComptesPassages
+FCMR8016;BatchRapproComptaGestionSoldesComptesUE
+FCMR8017;BatchRapproComptaGestionSoldesSousComptes
+FCMR8018;BatchExtractionAffectation
+FCMR8019;BatchExtractionCréances
+FCMR8020;BatchExtractionDtxLtx
+FCMR8021;BatchExtractionFinancierCompte
+FCMR8022;BatchExtractionFinancierPassage
+FCMR8023;BatchExtractionFinancierSousCompte
+FCMR8024;BatchExtractionTransfertCompte
+FCMR8025;BatchExtractionTransfertCréance
+FCMR8026;BatchExtractionTransfertSousCompte
+FCMR8027;BatchInitialisationEtatDebut
+FCMR8028;BatchInitialisationEtatFin
+FCMR8029;BatchPurgeEtat
+FCMR8030;BatchRécupérationBalanceCompte
+FCMR8031;BatchRécupérationBalanceSousCompte
+FCMR8032;BatchRécupérationComptesEntreprises
+FCMR8033;BatchRécupérationListages
+FCMR8034;BatchRécupérationNonValeur
+FCMR8035;BatchRécupérationRemises
+FCMR8036;BatchListeEvénementsGestion
+FCMR8037;BatchInitialisationAutoMensuel
+FCMR8038;BatchInitialisationAutoQuotidien
+FCMR8039;BatchCalculSoldesArrêtésComptes
+FCMR8040;BatchCalculSoldesArrêtésDouteuxLitigieux
+FCMR8041;BatchCalculSoldesArrêtésPassages
+FCMR8042;BatchCalculSoldesArrêtésSousCompte
+FCMR8043;BatchRécupérationCotisationsRétrocessionCAMR
+FCMR8044;BatchGénPreTraitement préparer enrichissement CRE
+FCMR8045;BatchExtractionSoldeSSI
+FCMR9001;Pilotage des soldes
+FCMR9002;Gestion des recyclages
+FCMR9003;Gestion tp des recyclages
+FCMX0001;Administration des procédures
+FCMX0002;Recherche procédure
+FCMX0003;Ouverture manuelle - Créance
+FCMX0004;MBTraitementDesRelancesEchéances
+FCMX0005;MBQuestionnaire
+FCMX0013;MBAlimentationDesTâchesBST
+FCMX0014;MBTraitementDesTâchesExpirées
+FCMX0015;MBTraitementDesRelancesTâches
+FCMX0016;Créer tiers
+FCMX0017;Modifier tiers
+FCMX0019;MBSoumissions
+FCMX0020;MBRafraîchissementDesSoumissions
+FCMX0021;Recherche directe soumission
+FCMX0022;Recherche avancée soumission
+FCMX0023;Ouverture procédure
+FCMX0024;MBAutomatisationDeLaProcédureD'InjonctionDePayer
+FCMX0025;Recherche lot ANV
+FCMX0026;MBPréparationDesDemandesD'AdmissionEnNonValeur
+FCMX0027;MB Constitution des lots ANV
+FCMX0028;Ouverture manuelle - Documents à réclamer
+FCMX0029;MBActualisationAutomatiqueDeLaCréance
+FCMX0030;Ouverture manuelle - Synthèse ouverture
+FCMX0031;Assignation par avocat - Jugement
+FCMX0032;Assignation par avocat - Signification
+FCMX0033;MBComplémentActualisationAutomatiqueDeLaCréance
+FCMX0034;Assignation par mandataire - Second original
+FCMX0035;Fermeture procédure
+FCMX0037;Injonction de payer - Ordonnance
+FCMX0038;Injonction de payer - Signification
+FCMX0039;Valider paiements unitaires
+FCMX0040;Valider paiements groupés
+FCMX0041;Assignation par avocat - Assignation
+FCMX0042;Assignation par mandataire - Auxiliaires
+FCMX0043;Injonction de payer - Requête
+FCMX0045;Procédure collective - Production
+FCMX0046;Procédure collective - action admission
+FCMX0047;Injonction de payer - Titre exécutoire
+FCMX0048;Injonction de payer - Opp. Mandataire
+FCMX0049;Procédure collective - Changement d'état
+FCMX0050;Procédure collective - Action
+FCMX0052;Suvi d'assignation par avocat
+FCMX0053;Suivi d'assignation par mandataire
+FCMX0054;Suivi d'injonction de payer
+FCMX0055;Suivi de procédure concertée
+FCMX0056;Suivi en non valeur
+FCMX0057;Visualiser un tiers
+FCMX0058;BatchRestitutionCréancesDocumentsDeLaProcédureColl
+FCMX0059;BatchCréerPortefeuillePourProcédureContentieuse
+FCMX0060;Gérer Calendrier des audiences
+FCMX0061;Préparation audiences
+FCMX0062;Résultats audiences
+FCMX0063;Assignation par mandataire ? Nouvelle audience
+FCMX0064;Assignation par mandataire ? Action sur jugement
+FCMX0065;Administration des audiences
+FCMX0066;créer des tâches  AUDIENCE dans les corbeilles BST
+FIAD0001;Outil de Consultation Carrieres
+FIAD0002;Outil de gestion des lignes specifiques
+FIAD0003;Outil de gestion des anomalies calculatoires
+FIAD0004;Consultation carrières archivées
+FIAD0006;Creation d'une ligne carriere
+FIAD0006;Creation d'une ligne carriere mono-régime
+FIAD0007;Modification d'une ligne carriere
+FIAD0007;Modification d'une ligne carriere mono-régime
+FIAD0008;Suppression d'une ligne carriere
+FIAD0009;Suppression d'une PDH
+FIAD0010;Modification d'une ligne maladie
+FIAD0011;Creation d'une ligne maladie
+FIAD0012;Creation d'une ligne maladie PSI N et N-1
+FIAD0013;lignes annulees
+FIAD0014;releve de carriere
+FIAD0014;Synthèse carrière
+FIAD0015;Outil de modification des raisons sociales
+FIAD0016;Outil de recherche Multi Criteres
+FIAD0017;Mise à jour points majo/mino
+FIAD0018;Fusion UGD multi-regime
+FIAD0021;OGAC mode géré
+FIAD0026;Creation d'une ligne carriere multi-régime
+FIAD0027;Modification d'une ligne carriere multi-régime
+FIBF0001;Gestion personnalisee des mouvements
+FIBF0002;Pilotage des adresses dans la BFD
+FIBF0003;Recherche des affaires
+FIBF0004;Pilotages des droits dans la BFD
+FIBF0005;Statistiques Alimentation adresses BFD
+FIBF0006;Statistiques Alimentation droits BFD
+FIBF0007;Recherche des adresses
+FIBF0008;Recherche des echanges
+FIBF0009;Ecran de blocage couple institution participant
+FIBF0010;Modification entite LOC
+FIBF0011;Modification entite DEB
+FIBF0012;Modification de la periode
+FIBF0013;Creation de la periode
+FIBF0014;Modification entite TRA
+FIBF0015;Creation entite TRA
+FIBF0016;Modification entite ENT
+FIBF0017;Creation entite ENT
+FIBF0018;Modification entite PTS
+FIBF0019;Creation entite PTS
+FIBF0020;Modification adresse
+FIBF0022;Modification du contrat
+FIBF0023;Creation du contrat
+FIBF0024;Modification institution
+FIBF0025;Relai vers la Recherche
+FIBF0026;Synthèse des blocages
+FIBL0001;Outil de suivi des échanges base Localisation
+FIBL0002;Gestion demande réémission Base Localisation
+FIBL0003;Recyclage des mises à jour données certification
+FIBL0004;Gestion des demandes d'extraction
+FIBL0005;Statistique flux envoi et retour
+FIBL0006;Statistique sur les tâches à traiter
+FIBL0007;Gestion des suppressions de clé de compte
+FIBL0008;Gestion des renumérotations de clé de compte
+FIPC0001;Gestion demande CIN
+FIPC0002;Visualisation synthese demande
+FIPC0003;Statistiques Pilotage des droits
+FIPC0004;Detail : Modification DEB
+FIPC0005;Detail : Modification Entreprise
+FIPC0006;Detail : Modification Contrat
+FIPC0007;Detail : Modification Periode Droits
+FIPC0008;Detail : Modification Tranche
+FIPC0009;Detail : Modification Points
+FIPC0010;Detail : Creation Entreprise
+FIPC0011;Detail : Creation Contrat
+FIPC0012;Detail : Creation Periode Droits
+FIPC0013;Detail : Creation Tranche
+FIPC0014;Detail : Creation Points
+FIPC0016;Statistiques IAA
+FIPC0017;Detail : Modification DDR
+FIPC0018;Outil de Suivi des Processus PRC
+FIPC0019;Recherche Participant inexistant
+FIPC0020;Modification Localisation
+FIPI0001;Outil d'extraction du journal de points
+FIPI0002;Outil extraction des pts attribués sans cotisation
+FIPI0003;Outil d'extraction du journal de points IEG
+FNAF0001;Gestion des affiliations - Adhérent
+FNAF0002;Demande de transfert de population
+FNAF0003;Modification de masse affiliation
+FNAF0004;Création d'une affiliation
+FNAF0005;Gestion des affiliations - Individu
+FNAF0006;Modification d'une affiliation
+FNAF0007;Annulation d'une affiliation
+FNAF0008;Consultation d'une affiliation
+FNDS0101;Notification d'une réception DS
+FNDS01B5;Conversion CPN/CPI - DADS-U
+FNDS01R1;Réception DS à traiter
+FNDS0201;Création d'une opération DS
+FNDS0202;Gestion d'une opération DS
+FNDS0203;Recherche d'une opération DS
+FNDS0205;Consultation de l'historique d'une opération DS
+FNDS0207;Demande d'annulation d'une opération DS
+FNDS0208;Consultation des Opérations DS
+FNDS0209;Recherche OPDS pour rapprochement
+FNDS020A;Demande Réémission Opération DS
+FNDS0210;Saisie de masse
+FNDS0211;Saisie de masse
+FNDS02GA;Recherche d'une campagne d'appel
+FNDS02GB;Visualisation des lots d'une campagne
+FNDS02GC;Gestion d'une campagne appel
+FNDS02GD;Création d'un lot
+FNDS02GE;Modification d'un lot
+FNDS02GF;Visualisation du détail d'un appel
+FNDS02L2;Gestion des lignes préamorcées
+FNDS02L4;Rapprochement d'un individu
+FNDS02L5;Dé-Rapprochement Individu
+FNDS02L6;Modification de masse
+FNDS02L7;Historique modification de masse
+FNDS02L9;Gestion des lignes DS
+FNDS02LA;Consultation du détail d'une ligne DS
+FNDS02LB;Consultation de l'historique d'une période DS
+FNDS02LC;Requalification d'une DS
+FNDS02LD;Gestion des périodes DS
+FNDS02LE;Consultation du récapitulatif des anomalies
+FNDS02LF;Forçage des anomalies
+FNDS02LG;Demande de forçage en masse des anomalies DS
+FNDS02LH;Rapprochement individu en masse
+FNDS02R0;Gestion d'une réception DS
+FNDS02R1;Recherche d'une réception DS
+FNDS02R2;Consultation lignes d'une réception DS
+FNDS02R3;Modification de masse lignes d'une réception DS
+FNDS02R4;Eclatement d'une réception DS
+FNDS02R5;Rapprochement d'une réception DS
+FNDS02R6;Modification d'une réception DS
+FNDS02R7;Forçage Intégration Réception DS
+FNDS02R8;Rejet d'une réception DS
+FNDS02R9;Annulation Intégration Réception DS
+FNDS02RA;Consultation de l'historique réception DS
+FNDS02RB;Consultation Réception DS
+FNDS02RC;Consultation Détail Réception DS
+FNDS02RD;Regroupement des réceptions DS
+FNDS02RE;Gestion Critères regroupement périodes DS
+FNDS02RF;Consultation périodes en anomalie
+FNDS02RG;Extraction Périodes
+FNDS0301;Gestion Carrière Participant
+FNDS0304;Modification LS
+FNDS0307;Création LS
+FNDS0308;Duplication LS
+FNDS030A;Consultation Carrière Participant
+FNDS030B;Gestion Carrière Participant sans impact compte
+FNDS030C;Gestion Carrière Participant Précompte
+FNDS030D;Gestion Carrière Participant en ANV
+FNDS030F;MAJ Cotisation Manuelle
+FNDS030G;Restituer Populations
+FNDS030H;Selectionner Etablissement
+FNDS0314;Modification Carriere Expatrie
+FNDS031A;Gestion Carrière Participant Expatrie
+FNDS0402;Consulter Ventilation
+FNDS0403;Consulter Cotisation
+FNDS0404;Modifier Ventilation SI
+FNDS0405;Modification Cotisation
+FNDS0406;Consulter Cotisation Manuelle
+FNDS0407;Modifier Cotisation Manuelle
+FNDS0502;Gestion d'une operation compte - Tiers
+FNDS0504;Gestion d'une operation compte - Adhérent
+FNDS0505;Consultation d'un justificatif d'ajustement
+FNDS0506;Consultation d'un justificatif nominatif
+FNDS0508;Annulation d'une opération compte
+FNDS0701;Verrouillage Applicatif
+FNDS0702;Gestion des verrous
+FNGD0001;Gestion des documents
+FNPMH001;Liste paramétrage Hors Parure
+FNPMH002;Paramétrage Extraction DN
+FNPMH003;Critère extraction
+FNPMH004;Structure numéro rattachement
+FNPMH005;Conversion CPN CPI / DADS-U
+FNPMH007;Alim Recouvrement - Ligne
+FNPMH008;Seuil AR - Ecart Cotisation
+FNPMH009;Seuil Alimentation Recouvrement - Tiers Mandataire
+FNPMH010;Date Communication - UEC Sans personnel
+FNPMH011;PM Chomage Partiel
+FNPMH012;PM Correspondance Duree travail
+FNPMH013;PM Seuil Tolerance Apprenti
+FNPMH014;PM Seuil tolerance Hors Apprenti
+FNPMH015;Correspondance Emetteur - Type échange
+FNPMH017;PM Comportement Anomalies
+FNPMH018;PM Anomalie PreQualification
+FNPMH019;Seuil AR - Code type gestion UEC
+FNPMH020;Seuil AR - Code type gestion UED
+FNPMH021;Gestion Aide Résolution Anomalies
+FNPN0001;Pilotage DN
+FPDP0001;CHLOE
+FPGA1000;Rechercher un Dossier
+FPGA1050;Gérer un Dossier Prestations Retraite
+FPGA1100;Traiter révision AGIRC H PRC Liquidateur
+FPGA1101;Traiter révision AGIRC H PRC Valideur
+FPGA1102;Réviser droits AGIRC H PRC
+FPGA1103;Consulter détail révision Droits AGIRC H PRC
+FPGA1200;Gérer une Pièce Justificative
+FPGA1250;Gérer une Enquete
+FPGA1251;Créer une nouvelle Enquete
+FPGA1255;Enregistrer un nouveau Destinataire
+FPGA1300;Suivre le chargement des Flux PRC
+FPGA1350;Valider unitairement un Flux PRC - Payeur
+FPGA1351;Valider unitairement un Flux PRC - Valideur
+FPGA1352;Valider unitairement un Flux PRC - Historique
+FPGA1353;Valider unitairement un flux PRC - Cap. unique
+FPGA1400;Consulter droits d'un Dossier Prestations Retraite
+FPGA1401;Consulter les carrières
+FPGA1450;Gérer un plan de prélèvement tiers
+FPGA1451;Consulter un plan de prélèvement tiers
+FPGA1452;Cloturer un plan de prélèvement tiers
+FPGA1500;Gérer les taches Induites suite mise à jour BREF
+FPGA1550;Traiter une révision  ARRCO Ancien Régime payeur
+FPGA1551;Traiter une révision  ARRCO Ancien Régime valideur
+FPGA1552;Reviser Droits Directs ou Indirects
+FPGA1552;Réviser Droits Directs ou Indirects
+FPGA1553;Consulter Detail Revision Droits Directs Indirects
+FPGA1553;Consulter Détail Révision Droits Directs Indirects
+FPGA1554;Traiter une révision  ARRCO AR payeur (tache)
+FPGA1600;Emettre flux notifications et récaps carrière
+FPGA1650;Gérer l'homonymie
+FPGA1651;Gérer l'homonymie - résumé
+FPGA1700;Gérer les informations fiscales
+FPGA1750;Gérer les Tiers Mandataires
+FPGA1751;Gérer les Tiers Mandataires - historique
+FPGA1800;Gérer une Modalité et un Moyen de paiement
+FPGA2000;Charger un dossier
+FPGA2050;Enrichir les données RGX
+FPGA2100;Réviser instruire révers. ARRCO AR, AGIRC H. PRC
+FPGA3000;Enqueter la persistance des Droits
+FPGA3050;Enqueter la présomption de décès
+FPGA3100;Rechercher les coordonnées de paiement
+FPGA3150;Emettre une attestation de co-titularité
+FPGA3200;Rechercher un allocataire
+FPGA3250;Gérer les calendriers d'Enquete
+FPGA4000;Enregistrer modifier annuler décès allocataire PRC
+FPGA4050;Modifier droits suite à modif ou annulation décès
+FPGA4050;Modifier droits suite à modif. ou annulation décès
+FPGA4100;Cloturer définitivement les Droits
+FPGA4150;Enregistrer décès présumé allocataire dans BREF
+FPGA5000;Gérer les retours d'Enquetes d'invalidité
+FPGA5050;Gérer les retours d'Enquetes vie et EC
+FPGA5100;Gérer les retours d'Enquetes remariage et orphelin
+FPGA5150;Gérer les retour d'Enquetes décès et coordonnées
+FPGA5200;Retour Enq Masse - Gestion remariages via flux PRC
+FPGA6000;Traiter la bande CNAV
+FPGA6050;Informer l'allocataire du changement de situation
+FPGA7000;Traiter les CRE en masse
+FPGA7150;Gérer une Convention Tiers Payeur
+FPGA7200;Créer manuellement DPR Liquidateur
+FPGA7201;Créer manuellement DPR Correcteur
+FPGA7202;Rechercher les DPR en cours de création
+FPGA7203;Gérer Individu Bénéficiaire du DPR
+FPGA7204;Créer DPR et Rattachement au DR
+FPGA7205;Créer les Droits et les Pièces Justificatives
+FPGA7206;Sélectionner le type de dossier à créer
+FPGA7250;Créer manuellement DPR Valideur
+FPGA7300;Consulter Infos Dossier Origine
+FPGA7400;Traiter réversion AGIRC H PRC, ARRCO AR L
+FPGA7400;Traiter réversion AGIRC H PRC, L
+FPGA7401;Gérer les conditions d'ouverture des droits
+FPGA7402;Consulter Détail réversion H PRC
+FPGA7450;Traiter réversion AGIRC H PRC, ARRCO AR V
+FPGA7450;Traiter réversion AGIRC H PRC, V
+FPGA7500;Saisir une Adresse pour un courrier
+FPGA7600;Gérer la Périodicité DPR
+FPGA8000;Controler profondeur des Engagements (PRC)
+FPGA8050;Controler profondeur des Engagements (Cloture)
+FPGA8100;Cloturer et réactiver un Dossier
+FPGA8200;Saisir Points Inscrits IEG
+FPGA8300;IEG - Extinction et réactivation
+FPGA8400;Consulter droits d'un DPR (Old)
+FPGA8401;Consulter les carrières (Old)
+FPGA8500;Générer Notifications suite tombée de majoration
+FPGA8510;Initialiser le calendrier Tombée de Majoration
+FPGE1000;Gérer une Procédure de Recouvrement
+FPGE1001;Lister les procédures de recouvrement
+FPGE1002;Consulter un Plan d'Actions de Recouvrement
+FPGE1003;Consulter Plan Actions Recouvrement - histo statut
+FPGE1003;Consulter Plan Actions Recouvrement - hosto statut
+FPGE1004;Consulter Plan Actions Rec.- histo remboursement
+FPGE1004;Consulter Plan Actions Rec.- hosto remboursement
+FPGE1005;Créer un Plan d'Actions de Recouvrement
+FPGE1006;Rattacher un Destinataire
+FPGE1007;Gérer un Plan d'Actions de Recouvrement
+FPGE1008;Créer une Action de Recouvrement
+FPGE1009;Modifier une Action de Recouvrement
+FPGE1010;Modifier statut du Plan d'Actions de Recouvrement
+FPGE1050;Gérer les Plans de Remboursement
+FPGE1051;Créer un Plan de Remboursement
+FPGE1052;Choisir un autre DPR
+FPGE1053;Modifier le statut du Plan de Remboursement
+FPGE1054;Modifier l'échéancier du Plan de Remboursement
+FPGE1100;Affecter manuellement une Entrée Fonds à des Indus
+FPGE1101;Rechercher des Entrées de Fonds
+FPGE1102;Annuler l'affectation d'une Entrée de Fonds
+FPGE1150;Gérer les Demandes de Prises sur Fonds
+FPGE1151;Créer/modifier une Demande de Prise sur Fonds
+FPGE1152;Consulter une Demande de Prise sur Fonds
+FPGE1153;Créer une Demande de Prise sur Fonds
+FPGE2000;Consulter les comptes
+FPGE2001;Consulter historique des statuts
+FPGE2002;Consulter détail Engagement / Indu
+FPGE2050;Visualiser des allocataires créditeurs/ débiteurs
+FPGE2051;Générer tache allocataires créditeurs ou débiteurs
+FPGE2100;Emettre attestation de paiement
+FPGE2101;Rattacher un Destinataire attestation paiement
+FPGE3000;Saisir les Rejets de Sortie de Fonds
+FPGE3050;Gérer les Entrées de Fonds
+FPGE3051;Consulter un Lot d'encaissement
+FPGE3052;Modifier un Lot d'encaissement
+FPGE3053;Créer un Lot d'encaissement
+FPGE3054;Valider un Lot d'encaissement
+FPGE3100;Saisir les annulations d'Entrées de Fonds
+FPGE3150;Consulter un Lot de paiement
+FPGE3151;Valider un Lot de paiement
+FPGE3200;Saisir les Rejets d'Entrées de Fonds
+FPGE3250;Valider la réalisation de Demande d'Arret Paiement
+FPGE3300;Valider les Déclarations
+FPGE3301;Consulter synthèse
+FPGE3302;Instruire une Déclaration Externe
+FPGE3350;Arreter un paiement
+FPGE3400;Opérations diverses
+FPGE3401;OD Creer Engagement / Indu
+FPGE3401;OD Créer Engagement / Indu
+FPGE3402;OD Homonymie
+FPGE3403;OD Avance sur paiement
+FPGE3404;OD Redistribution
+FPGE3410;Traiter Régularisations
+FPGE3411;Régularisations Creer Engagement / Indu
+FPGE3411;Régularisations Créer Engagement / Indu
+FPGE3500;Gérer Trop Perçu
+FPGE3501;Gérer Trop Perçu (via tache)
+FPGE4000;Emettre les attestations fiscales ponctuelles
+FPGE4001;Consulter historique des attestations fiscales
+FPGE5000;Initialiser le recouvrement des Indus
+FPGE5050;Prélever compte bancaire pour rembourser un Indu
+FPGE5100;Suivre le recouvrement des Indus
+FPGE5200;Gérer les Indus en cours de recouvrement
+FPGE6000;Emettre 'Balance Tete et Points'
+FPGE6050;Emettre 'Controle échéance trimestrielle'
+FPGE6100;Emettre 'Débit/Crédit Montants nets'
+FPGE6150;Emettre 'Débit/Crédit Tiers Réglementaires'
+FPGE6200;Emettre 'Liste des allocataires créditeurs'
+FPGE6250;Emettre 'Liste des candidats CFE non prélevés'
+FPGE6300;Emettre 'Liste retenue à la source non prélevés'
+FPGE6350;Emettre 'Montant des cotisations à la CFE'
+FPGE6400;Emettre 'Montant des retenues à la source'
+FPGE6450;Emettre 'Liste des versements hors-période'
+FPGE6500;Emettre 'Liste des allocataires débiteurs'
+FPGE7000;Analyser le CR des retours des lettres-chèques
+FPGE7050;Traitement automatique fichier retour de virements
+FPGE8000;Extraire et Transmettre les CRE comptables
+FPGE8050;Traiter les CRE comptables en anomalie
+FPGE9000;Constituer les Destinataires des envois de masse
+FPGE9050;Emettre les attestations fiscales
+FPGE9100;Préparer les Lignes Fiscales
+FPGE9150;Transmettre les Déclarations Fiscales à la DGI
+FPGE9200;Transmettre attestation de paiement Polynésie
+FPGE9210;Sélectionner les alloc pour la déclaration DSFNC
+FPGE9220;Transmettre la déclaration complémentaire DSFNC
+FPGE9230;Sélectionner alloc pour attestation de paiement PF
+FPGE9240;Préparer les LF pour l'attestation de paiement PF
+FPGE9250;Sélectionner allocataires pour liste annuelle SCDP
+FPGE9260;Préparer les LF pour la liste annuelle au SCDP
+FPGE9270;Transmettre la liste des allocataires au SCDP
+FPGE9280;Sélectionner alloc pour la liste annuelle CAFAT
+FPGE9290;Préparer les LF pour la liste annuelle CAFAT
+FPGE9300;Transmettre la liste annuelle des alloc à la CAFAT
+FPKM1000;Visualiser les anomalies du KM
+FPPA1000;Rattrapage Situation Réglementaire
+FPPA1050;Rattrapage Valeur du Point
+FPPA2000;Calculer et Engager et préparer le paiement
+FPPA2050;Emettre Décompte de Paiement . Paiement périodique
+FPPA2050;Emettre Décompte de Paiement paiement périodique
+FPPA2100;Payer et transmettre paiement périodique
+FPPA2150;Sélectionner DPR à traiter
+FPPA3000;Emettre décompte de paiement
+FPPA3050;Ordonnancer et payer le montant engagé
+FPPA3100;Sélectionner les dossiers à payer
+FPPA4000;Déclarer CFE
+FPPA4050;Déclarer COTAL
+FPPA4100;Déclarer les Retenues à la Source
+FPPA4150;Déclarer MSA
+FPPA4200;Déclarer URSSAF
+FPPA4250;Déclarer CPS
+FPPA4300;Déclarer CAFAT
+FPPA5000;Calculer et Engager changement Périodicité
+FPPA5050;Calculer et Engager cloture de Droits
+FPPA5100;Calculer et Engager gel total
+FPPA5150;Calculer et Engager levée de suspension
+FPPA5200;Calculer et Engager liquidation
+FPPA5250;Calculer et Engager modification date cloture
+FPPA5300;Calculer et Engager réactivation
+FPPA5350;Calculer et Engager régul. tiers réglementaire
+FPPA5400;Calculer et Engager réouverture des droits
+FPPA5450;Calculer et Engager révision de droits
+FPPA5500;Calculer et Engager suspension
+FPSP1000;Paramétrer la brique
+FPSP2000;Consulter les Compte-Rendu Fonctionnels
+FPSP2000;Consulter les Compte-Rendus Fonctionnels
+FPSP2001;Consulter le détail d'un Compte-Rendu Fonctionnel
+FPSP2050;Consulter les Etats Métiers
+FPSP4000;Extraire, restituer éléments à destination d'OSCAR
+FPSP4050;Extraire, restituer données suivi actes sensibles
+FPSP4100;Extraire et restituer les Traces de gestion
+FPSP4150;Service d'extraction de données métier ciblées
+FPSP4200;Service extract. données métier en masse par diff.
+FPSP4300;Analyse des CRE et MAJ RNCPS
+FPSP4400;Constitution Flux RNCPS Allocataire
+FPSP4500;IEG - Notification liquidation et révision
+FPSP4600;Création du flux IEG Paiement Hors Terme / Terme
+FPSP4700;Emettre les courriers à la demande
+FPSP4800;Création du flux IEG Pièces Justificatives
+FPSP5000;Traitement de mensualisation en masse
+FPSPA001;Mise à jour des CSP
+FRCO0001;Consultation d'une adresse
+FRCO0002;Gestion d'une adresse
+FRCO0003;Consultation d'un mdp
+FRCO0004;Gestion d'un mdp
+FRCO0005;Consultation histo adresse
+FRCO0006;Consultation histo mdp
+FRCO0007;Consultation données d'interlocution
+FRCO0008;Gestion données d'interlocution
+FREN0001;Consultation d'une entreprise
+FREN0002;Consultation d'un établissement
+FREN0003;Création d'une entreprise
+FREN0004;Ajout d'un établissement
+FREN0005;Gestion d'une entreprise
+FREN0007;Gestion d'un établissement
+FREN0009;Création d'un Groupe
+FREN0010;Gestion d'un Groupe
+FREN0011;Consultation d'un Groupe
+FREN0012;Suppression d'un Groupe
+FREN0013;Consultation histo entreprise
+FREN0014;Consultation histo Établissement
+FREN0015;Création d?un lien interlocuteur
+FREN0016;Création d'une entreprise
+FREN0018;Consultation Entreprise Etablissement
+FRIN0001;Consultation d'un individu
+FRIN0002;Création d'un individu
+FRIN0003;Gestion d'un individu
+FRIN0004;Suppression d'un individu
+FRIN0005;Fusion individus
+FRIN0006;Décertification d'un individu
+FRIN0007;Consultation histo individu
+FRIN0008;Création d'un individu
+FRIN0009;Gestion anomalies Adele
+FRIN0010;Recherche d'un individu
+FRIN0020;Consultation Individu annulé
+FRKM0001;Pilotage/Suivi général migration
+FRKM0002;Tableau de bord supports
+FRKM0003;Paramétrage du kit
+FRKM0004;Paramétrage du kit - Briques
+FRKM0005;Paramétrage du kit - Entités
+FRKM0006;Paramétrage du kit - Données
+FRKM0008;Paramétrage du kit - Règles de gestion
+FRKM0010;Paramétrage du kit - Identifiant
+FRKM0012;Consultation historique des traitements
+FRKM0014;Lancement traitement contrôles
+FRKM0015;Lancement traitement conversion
+FRKM0016;Valider traitement terminé
+FRKM0019;Consultation des anomalies
+FRKM0024;Gestion des rejets
+FRKM0025;Purge des données
+FRKM0027;Suivi des anomalies / conversion
+FRKM0028;Consultation anomalies conversion
+FRKM0029;Purge des données du SAS
+FRLO0001;Consultation d'un interlocuteur
+FRLO0002;Création d'un interlocuteur
+FRLO0003;Gestion d'un interlocuteur
+FRLO0004;Consultation histo interlocuteur
+FRLO0005;Création d'un interlocuteur
+FRMRCC01;Recherche critères communs
+FRMRCE01;Recherche critères Entreprise
+FRMRCI01;Recherche critères Individu
+FRMRCI02;Recherche Multi Individus
+FRMRCO01;Recherche critères Interlocuteur
+FRMRCT01;Recherche critères Tiers
+FRPARURE;Parure
+FRTI0001;Consultation d'un tiers
+FRTI0002;Création d'un tiers
+FRTI0003;Gestion d'un tiers
+FRTI0004;Consultation histo tiers
+FRTI0005;Création d'un tiers
+FT00ADMN;Administration
+FTACVALD;Gestion Adhérent-Cotisant
+FTACVISU;Visualisation Adhérent-Cotisant
+FTARVALD;Gestion allocataire
+FTARVISU;Visualisation Allocataire
+FX00PING;Fonction technique PING LC
+FXIC0001;BatchFormatageDonnéesPourCRE
+FXIC0002;BatchFormatage&InsertionECA
+FXIC0003;BatchMiseaJourPartitionsLignesECD
+FXIC0004;BatchFormatagePiècesECDExtractionDateComptabe
+FXIC0005;BatchDéterminationPartitionsStockagePCD
+FXIC0006;BatchFormatageLignesECDExtractionDateComptabe
+FXIC0007;BatchGestionPartitionLignesECD
+FXIC0008;BatchHistorisationLignesECDGestiondePartition
+FXIC0009;BatchHistorisationLignesECDMiseAJourdePartition
+FXIC0010;BatchHistorisationPiecesECDGestiondePartition
+FXIC0011;BatchHistorisationPiecesECDMiseAJourdePartition
+FXIC0012;BatchDétermDébutArchivage&GestionPartitionLCD
+FXIC0013;BatchDétermDébutArchivage&GestionPartitionPCD
+FXIC0014;BatchCréationFormatageECDpourJAEQuotidien
+FXIC0015;BatchEditionJAEparSociétéComptable&EntitéComptable
+FXIC0016;BatchRechercheECA
+FXIC0017;BatchEditionJournauxMensuelsECAparSociétéComptable
+FXIC0018;BatchRechercheECDdansPiècesECD&LignesECD
+FXIC0019;BatchCréationCumulLigECDparNatureCptDébit&Crédit
+FXIC0020;BatchEditionJAEECDmensuel&Période inventaire
+FXIC0021;BatchEditionJAEECDmensuel
+FXIC0022;BatchRechercheCREaArchiver
+FXIC0023;BatchRecherchePiecesECAaArchver
+FXIC0024;BatchMiseAJourdateTraitementComptable
+FXIC0025;BatchMiseAJourPériodeComptable
+FXIC0026;BatchMiseAJourExerciceComptable
+FXIC0027;BatchPréparationFichierDateTraitementComptableXRDJ
+FXJC0001;BatchRapprochAuditECDVAC1&VAC2avecECDSupprimés
+FXJC0002;BatchRapprochementAuditECD&CREVAC1
+FXJC0003;BatchRapprochementECD&PCAéditionEcartsLC
+FXJC0004;BatchEditionEcartSociétéComptable&EntitéComptable
+FXJC0005;BatchEditionMensuelleEcartSociétéCta&EntitéCta
+FXJC0006;BatchRechercheECDdansPiècesECD&LignesECD
+FXJC0007;BatchExtraction
+FXJC0008;BatchRapprochementEcartCREGRECCO&StatutCRELC&ECDLC
+FXJC0009;BatchRapprochementEditionCREGRECCO
+FXJC0010;BatchRapprochementEditionECDLC
+FXJC0011;BatchRapprochementEcartCREGRECCO&ECDLC
+FXJC0012;BatchSélectionSoldesGRECCO
+FXJC0013;BatchAgrégationSoldesGRECCO
+FXJC0014;BatchRapprochementEcartSoldesAgrégésGRECCO&CTA
+FXJC0015;BatchRapprochementEcartSoldesGRECCO&SoldesCTA
+FXLC0000;Changer date de référence
+FXLC0001;Charger référentiels
+FXLC1001;Consultation des ECD retaite
+FYSY0001;Rechercher des demandes
+FYSY0002;Consulter une demande
+FZEX001;Suivi d'exploitation batch
+P0DPMBC2;Correction RIB
+PA00SV99;Traiter demande de Synchro des adhésions
+PAAUMB09;Traitement volet fédérations
+PAAUMB29;Traitement créations anticipées
+PAAUMB36;Retours RAPPAURA
+PAAUSV79;Déterminer mise à jour AURA
+PAAUSV81;Traitement des modifications d'adhérent
+PAAUSV82;Traitement des créations d'adhérent
+PAAUSVA8;Particularités SECO
+PAAUSVB7;MAJ rejet retour AURA
+PAAUSVB8;Traitement contrat autre groupe
+PAAUSVB9;Traitement double adhésion
+PAAUSVC4;Création Anomalie
+PAAUSVGA;Cessations juridiques filtrées AURA
+PACFSV12;MAJ Suivi Contrôle URSSAF
+PACOSV05;Traitement CRE BAC
+PACPSV60;Appliquer Relèvement taux garantie
+PACPSV85;Mise à jour condition adhésion - Relevement taux
+PAGAMB01;Traitement du sommeil
+PAGAMB02;Traitement mise en sommeil de masse
+PAGAMB03;Enquete sommeil
+PAGAMB11;Traitement des flux AIA
+PAGASV97;Création adhesion automatique
+PAGASVCN;Controler demande adhésion AIA
+PAGASVD8;Création Adhésion non Adhérente Automatique
+PAGASVDR;Création Adhésion Automatique AIA
+PAGASVF5;MAJ Suivi Bodacc
+PAGASVG7;Fermeture Entreprise/Adhésion(s)
+PAGASVS1;Création adhesion via Synchro
+PAGASVS2;Création adhesion via Synchro
+PBGPMB51;Réattribution automatique des portefeuilles
+PBGPMB53;Forcage des PTF en masse
+PGRAMB89;Propagation DN
+PI00MB01;Programme PI00MB01
+PIADMBA1;Programme PIADMBA1
+PIADMBA2;Programme PIADMBA2
+PIADMBJ1;Programme PIADMBJ1
+PIADMBM0;Programme PIADMBM0
+PIADMBN5;Programme PIADMBN5
+PIADMBR0;Programme PIADMBR0
+PIADMBR1;Programme PIADMBR1
+PIADMBR2;Programme PIADMBR2
+PIADMBS1;Programme PIADMBS1
+PIADMBT1;Programme PIADMBT1
+PIADMBT2;Programme PIADMBT2
+PIADMBT3;Programme PIADMBT3
+PIADMBT5;Programme PIADMBT5
+PIADMBX1;Programme PIADMBX1
+PIADSVA1;Programme PIADSVA1
+PIADSVA2;Programme PIADSVA2
+PIADSVH0;Programme PIADSVH0
+PIADSVN0;Programme PIADSVN0
+PIADSVN3;Programme PIADSVN3
+PIADSVR0;Programme PIADSVR0
+PIBFMB02;Programme PIBFMB02
+PIBFMB03;Programme PIBFMB03
+PIBFMB05;Programme PIBFMB05
+PIBFMB06;Programme PIBFMB06
+PIBFMB07;Programme PIBFMB07
+PIBFMB08;Programme PIBFMB08
+PIBFMB09;Programme PIBFMB09
+PIBFMB11;Programme PIBFMB11
+PIBFMB12;Programme PIBFMB12
+PIBFMB13;Programme PIBFMB13
+PIBFMB14;Programme PIBFMB14
+PIBFMB15;Programme PIBFMB15
+PIBFMB16;Programme PIBFMB16
+PIBFMB17;Programme PIBFMB17
+PIBFMB18;Programme PIBFMB18
+PIBFMB19;Programme PIBFMB19
+PIBFMB20;Programme PIBFMB20
+PIBFMB21;Programme PIBFMB21
+PIBFMB22;Programme PIBFMB22
+PIBFMB23;Programme PIBFMB23
+PIBFMB24;Programme PIBFMB24
+PIBFMB25;Programme PIBFMB25
+PIBFMB26;Programme PIBFMB26
+PIBFMB27;Programme PIBFMB27
+PIBFMB28;Programme PIBFMB28
+PIBFMB29;Programme PIBFMB29
+PIBFMB30;Programme PIBFMB30
+PIBFMB31;Programme PIBFMB31
+PIBFMB32;Programme PIBFMB32
+PIBFMB33;Programme PIBFMB33
+PIBFMB34;Programme PIBFMB34
+PIBFMB35;Programme PIBFMB35
+PIBFMB36;Programme PIBFMB36
+PIBFMBJ1;Programme PIBFMBJ1
+PIBLMB01;Programme PIBLMB01
+PIBLMB02;Programme PIBLMB02
+PIBLMB03;Programme PIBLMB03
+PIBLMB04;Programme PIBLMB04
+PIBLMBB0;Programme PIBLMBB0
+PIBLMBC1;Programme PIBLMBC1
+PIBLMBC2;Programme PIBLMBC2
+PIBLMBF1;Programme PIBLMBF1
+PIBLMBF2;Programme PIBLMBF2
+PIBLMBF5;Programme PIBLMBF5
+PIBLMBF6;Programme PIBLMBF6
+PIBLMBF7;Programme PIBLMBF7
+PIBLMBM1;Programme PIBLMBM1
+PIBLMBM2;Programme PIBLMBM2
+PIBLMBP1;Programme PIBLMBP1
+PIBLMBP2;Programme PIBLMBP2
+PIBLMBR1;Programme PIBLMBR1
+PIBLMBR2;Programme PIBLMBR2
+PIBLMBR3;Programme PIBLMBR3
+PIBLMBR4;Programme PIBLMBR4
+PIBLMBR5;Programme PIBLMBR5
+PIBLMBR6;Programme PIBLMBR6
+PIBLMBR8;Programme PIBLMBR8
+PIPCMB1A;Programme PIPCMB1A
+PIPCMBLP;Programme PIPCMBLP
+PIPCMBM1;Programme PIPCMBM1
+PIPCMBS1;Programme PIPCMBS1
+PIPCMBS2;Programme PIPCMBS2
+PIPCMBS3;Programme PIPCMBS3
+PIPCSV03;Programme PIPCSV03
+PIPCSV05;Programme PIPCSV05
+PIPCSV09;Programme PIPCSV09
+PIPCSV1B;Programme PIPCSV1B
+PIPCSV3B;Programme PIPCSV3B
+PIPCSV61;Programme PIPCSV61
+PIPCSV62;Programme PIPCSV62
+PIPCSV66;Programme PIPCSV66
+PIPCSV67;Programme PIPCSV67
+PIPCSV70;Programme PIPCSV70
+PIPCSV72;Programme PIPCSV72
+PIPCSV86;Programme PIPCSV86
+PIPCSV9B;Programme PIPCSV9B
+PIPCSVM2;Programme PIPCSVM2
+PIPIMB01;Programme PIPIMB01
+PIPIMB02;Programme PIPIMB02
+PIPIMB03;Programme PIPIMB03
+PIPIMB04;Programme PIPIMB04
+PIPIMB05;Programme PIPIMB05
+PIPIMB06;Programme PIPIMB06
+PIPIMB07;Programme PIPIMB07
+PIPIMB08;Programme PIPIMB08
+PIPIMBX1;Programme PIPIMBX1
+PNAFMB02;MAJ effectifs population
+PNAFMB03;MAJ Indicateur Affiliation Population
+PNAFMB04;Référencement des individus protégés
+PNAFMB05;Radiation de Masse - Pré-amorçage
+PNAFMB07;Transférer Activité
+PNAFMB08;Radiation de masse par population
+PNAFMB09;Gérer les motifs de fin sans radiation
+PNAFMB40;Edition certificat affiliation
+PNAFMB50;Edition déclaration sur l'honneur
+PNAFMB51;Edition carte professionnelle VRP
+PNAFMB52;Edition de masse carte professionnelle VRP
+PNAFMB60;Génération flux VRP
+PNCOMB01;Postage de CRE
+PNDSMB4C;Constituer l'appel DS journalier
+PNDSMB4D;Emettre l'appel DS de masse - Adhérent simple
+PNDSMB4J;Réémettre l'appel DS
+PNDSMBAF;Maj regroupement de périodes
+PNDSMBAI;Extraction des périodes VRP sur demande
+PNDSMBAK;Contrôler périodes VRP
+PNDSMBAM;Regroupement des périodes
+PNDSMBAN;Constituer salaires réévalués des expatriés
+PNDSMBAO;Traitement VRP niveau OPDS
+PNDSMBAP;Constituer salaires réévalués des expat/Tiers M
+PNDSMBAV;Mise en dépôt DADS-U
+PNDSMBAX;Orchestrateur Intégration DS dématérialisé
+PNDSMBAY;Requalification d'une opération DS
+PNDSMBAZ;Traitement de masse de Notification Réception DS
+PNDSMBB3;Emission compte rendu d'exploitation
+PNDSMBB4;Orchestrateur Rapprochement et Pré qualification
+PNDSMBB5;Requalification d'une opération DS
+PNDSMBBK;Mettre à jour rapprochement individu fichier plat
+PNDSMBBW;Mettre à jour rapprochement individu fichier MSA
+PNDSMBBX;Mettre à jour rapprochement individu fichier plat
+PNDSMBC3;Mise en dépot DADS-U, intégration fichiers
+PNDSMBGN;Constituer les synthèses anomalies bloquantes
+PNDSMBJ8;Traiter demandes annulation opérations DS
+PNDSMBJ9;Consolider annulation opération DS
+PNDSMBJA;Mettre à jour pilotage opérationnel opération DS
+PNDSMBJX;Consolider annulation opérations DS complexe
+PNDSMBK0;Eclater Réception DS
+PNDSMBK1;Traiter demandes annulation réceptions DS
+PNDSMBK2;Consolider annulation réception DS
+PNDSMBK3;Modification Masse Lignes DS d'une réception DS
+PNDSMBK4;Mettre à jour population reçue réception DS
+PNDSMBKA;Forçage en masse Anomalies DS
+PNDSMBL0;Modifier en Masse Lignes - Opération DS
+PNDSMBL1;Initialiser entité de gestion
+PNDSMBLA;Courrier anomalies DS
+PNDSMBP1;Alimenter Droits
+PNDSMBRS;TEE-CEA Retour anomalie flux ACOSS
+PNDSMBVF;Flux dette sur salaire
+PNDSMBVQ;Alimentation Recouvrement
+PNDSMBVS;Editer justificatif d'ajustement
+PNDSMBVT;Régularisation OP Compte Sans Personnel
+PNGDMB20;Détection relance atteinte
+PNPNMB01;SO Alimenter pilotage DN
+PNPNMB02;SO Archiver pilotage DN
+PNPNMB50;Piloter extraction DN
+PNPNMB51;Constituer fichier extraction (OSCAR)
+PNPNMB52;Formater DN pour Oscar
+PNPNMB54;Constituer pilotage intégration DS
+PNPNMB55;SO Supprimer les extractions DN
+PNPNMB57;Constituer pilotage intégration ENA
+PNPNMB62;Traitement de rattrapage BA
+PNPNSV71;Préparer Pivot Base Assiette
+PNPNSV85;Extraction Périodes DS à partir d'une Réception
+PNPNSV86;Extraction Périodes DS à partir d'une Opération
+PNVDMB01;Prise en compte des CRE abonnés DN
+PNVDMBBO;Bouchon VD
+PRINMB70;BATCH fusion individu
+PRINMB74;BATCH adresse Adèle
+PRINSV46;BATCH fusion individu
+PTACMB40;Génération tâches Adhérent-Cotisant
+PTARMB40;Génération tâches Allocataire
