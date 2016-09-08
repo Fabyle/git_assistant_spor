@@ -1,0 +1,3 @@
+# contents of properties file
+[main]
+port.web_socket = 3000

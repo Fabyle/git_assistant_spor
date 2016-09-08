@@ -3,6 +3,7 @@
  */
 var Botkit = require('botkit');
 var fs = require('fs');
+var socket = require("slack_to_bdorg_server_side");
 var programme_ur_reader = require('./programme_ur_reader');
 
 
@@ -12,7 +13,7 @@ var controller = Botkit.slackbot();
  * Le token à ne pas commiter
  */
 var bot = controller.spawn({
-  token: "A COMPLETER"
+  token: "xoxb-75200695616-UpS2rnVxTtQrlkU48qDhRZQN"
 });
 
 /**
@@ -50,6 +51,8 @@ controller.hears(['hello', 'hi', 'salut', 'bonjour'], 'direct_message,direct_men
             bot.reply(message, "Je suis génial ! :smile:");
         }
     });
+    console.log ("appel de la bdorg");
+    socket.emit_to_bdorg("bla");
 });
 
 /**

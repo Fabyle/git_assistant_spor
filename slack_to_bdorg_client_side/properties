@@ -1,0 +1,4 @@
+# contents of properties file
+[main]
+url.bdorg = http://esvspo82.gie.root.ad:9494/api/bdorg
+url.web_socket = http://92.151.46.204:3000

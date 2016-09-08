@@ -1,0 +1,12 @@
+{
+    "name": "slack_to_bdorg_client_side",
+    "version": "1.0.0",
+    "description": "the part client of the communication between slack and bdorg",
+    "author": "Fabien",
+    
+	"dependencies": {
+	  "socket.io-client": "1.4.8",
+	  "request": "2.74.0",
+	  "properties-reader": "0.0.15"	  
+	  }
+}
